@@ -6,3 +6,13 @@ module.exports = {
   },
   plugins: [],
 };
+export default {
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: ['Pretendard', 'sans-serif']
+      }
+    }
+  },
+  plugins: []
+};
