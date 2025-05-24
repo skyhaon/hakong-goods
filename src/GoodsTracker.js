@@ -5,35 +5,35 @@ const categories = [
   {
     name: "교복 떡메",
     items: [
-      { name: "남자 하복", price: 1500 },
-      { name: "여자 하복", price: 1500 },
-      { name: "1학년 생활복", price: 1500 },
-      { name: "2학년 생활복", price: 1500 },
-      { name: "3학년 생활복", price: 1500 }
+      { name: "남자 하복", price: 2000 },
+      { name: "여자 하복", price: 2000 },
+      { name: "1학년 생활복", price: 2000 },
+      { name: "2학년 생활복", price: 2000 },
+      { name: "3학년 생활복", price: 2000 }
     ]
   },
+  {
+    name: "학홍 키링",
+    items: [{name: "학홍 키링", price: 2500}]
+  }
   {
     name: "학교 전경 엽서",
     items: [{ name: "학교 전경 엽서", price: 1500 }]
   },
   {
-    name: "학교 건물 스티커",
+    name: "디미맵",
     items: [{ name: "학교 건물 스티커", price: 1000 }]
   },
   {
     name: "띠부띠부씰",
     items: [
-      { name: "1", price: 500 },
-      { name: "2", price: 500 },
-      { name: "3", price: 500 },
-      { name: "4", price: 500 }
+      { name: "3개 세트", price: 2000 },
     ]
   },
   {
-    name: "학교 건물 포스트잇",
+    name: "디미 부적",
     items: [
-      { name: "1", price: 1000 },
-      { name: "2", price: 1000 }
+      { name: "3개 세트", price: 1500 }
     ]
   }
 ];
