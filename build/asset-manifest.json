@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hakong-goods/static/css/main.b54a50f7.css",
+    "main.js": "/hakong-goods/static/js/main.3602bd3c.js",
+    "static/js/453.2999fca8.chunk.js": "/hakong-goods/static/js/453.2999fca8.chunk.js",
+    "index.html": "/hakong-goods/index.html",
+    "main.b54a50f7.css.map": "/hakong-goods/static/css/main.b54a50f7.css.map",
+    "main.3602bd3c.js.map": "/hakong-goods/static/js/main.3602bd3c.js.map",
+    "453.2999fca8.chunk.js.map": "/hakong-goods/static/js/453.2999fca8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b54a50f7.css",
+    "static/js/main.3602bd3c.js"
+  ]
+}
