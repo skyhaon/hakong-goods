@@ -1,9 +1,10 @@
-import GoodsTracker from "./GoodsTracker"; // 📌 GoodsTracker 불러오기
+import React from "react";
+import GoodsTracker from "./GoodsTracker";
 
 function App() {
   return (
     <div className="container mx-auto">
-      <GoodsTracker /> {/* 📌 GoodsTracker 컴포넌트 사용 */}
+      <GoodsTracker />
     </div>
   );
 }
