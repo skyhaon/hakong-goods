@@ -15,7 +15,7 @@ const categories = [
   {
     name: "학홍 키링",
     items: [{name: "학홍 키링", price: 2500}]
-  }
+  },
   {
     name: "학교 전경 엽서",
     items: [{ name: "학교 전경 엽서", price: 1500 }]
